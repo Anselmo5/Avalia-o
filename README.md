@@ -3,6 +3,6 @@
  
  
  Comandos para rodar:
- "yarn start"
+ "yarn start" ou
  "npx expo start"
  
