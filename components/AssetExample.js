@@ -2,17 +2,8 @@ import * as React from 'react';
 import FlatList from '../Flatlist/Emalta';
 import { Text, View, StyleSheet, Image, TextInput,Card, Linking,Button, Pressable, } from 'react-native';
 import { NavigationContainer } from '@react-navigation/native';
-import Alta from './ProfileALte1.JS';
+import Alta from './Emaltabar.js';
 import { createNativeStackNavigator } from '@react-navigation/native-stack';
-import {
-
-  createDrawerNavigator,
-  DrawerContentScrollView,
-  DrawerItemList,
-  DrawerItem,
-} 
-from '@react-navigation/drawer';
-
 export default function AssetExample({navigation}) {
 
   const alerta = () => {

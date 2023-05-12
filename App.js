@@ -2,10 +2,9 @@ import * as React from 'react';
 import { Button, View, Text,StyleSheet,Image,TouchableHighlight} from 'react-native';
 import { NavigationContainer } from '@react-navigation/native';
 import AssetExample from './components/AssetExample';
-import ProfileALte1 from './components/ProfileALte1.JS';
+import ProfileALte1 from './components/Emaltabar';
 import Crianca from './components/Criancas';
 import Eventos from './components/Eventos';
-import { createNativeStackNavigator } from '@react-navigation/native-stack';
 
 import {
   createDrawerNavigator,
